@@ -1,5 +1,5 @@
 {
-    appDir: '../pre-publications',
+    appDir: '../pre-publications', 
     mainConfigFile: '../pre-publications/js/common.js',
     dir: '../publications',
     optimizeCss: 'standard',

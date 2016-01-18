@@ -3,7 +3,7 @@
  * Available via the MIT or new BSD license.
  * see: http://github.com/jrburke/requirejs for details
  */
-
+ 
 /*
  * This is a bootstrap script to allow running RequireJS in the command line
  * in either a Java/Rhino or Node environment. It is modified by the top-level
